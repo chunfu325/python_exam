@@ -1,4 +1,4 @@
-Streamlit 線上測驗：國中生活科技三年級 Python
+Streamlit 線上測驗：國中資訊科技三年級 Python
 功能：學生線上作答 → 依座號輸出 Excel 成績檔
 import streamlit as st import pandas as pd from datetime import datetime
 st.set_page_config(page_title="Python 線上測驗", layout="centered")
